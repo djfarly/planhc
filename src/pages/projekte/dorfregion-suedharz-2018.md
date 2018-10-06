@@ -1,7 +1,7 @@
 ---
 templateKey: projekt
 title: Dorfregion Südharz
-date: 2016-12-17T15:04:10.000Z
+date: 2018-10-06T15:04:10.000Z
 description: >-
   Die Dorfregion Südharz befindet sich im Südosten von Niedersachsen in den
   beiden KommunenHerzberg am Harz und Bad Lauterberg im Harz.
