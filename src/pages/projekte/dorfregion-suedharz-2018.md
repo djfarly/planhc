@@ -18,13 +18,9 @@ Sie umfasst die Ortsteile
 * Bartolfelde
 * Osterhagen
 
-Die Dorfregion wurde im Jahr 2013 in das Landesprogramm des Landes Niedersachsen aufgenommen. Die Planungsphase der Dorferneuerung startete mit einer Bürgerversammlung im November 2014. Im Januar 2015 fand eine Zukunftswerkstatt als Vorbereitungs- und Informationsphase statt. Es wurden  Stärken und Schwächen erarbeitet und Arbeitskreise zu verschiedenen Handlungsfeldern gebildet.
-
-
+Die Dorfregion wurde im Jahr 2013 in das Landesprogramm des Landes Niedersachsen aufgenommen. Die Planungsphase der Dorferneuerung startete mit einer Bürgerversammlung im November 2014. Im Januar **2015** fand eine _Zukunftswerkstatt_ als Vorbereitungs- und Informationsphase statt. Es wurden  Stärken und Schwächen erarbeitet und Arbeitskreise zu verschiedenen Handlungsfeldern gebildet.
 
 Der Planungsprozess wurde ab März 2015 mit einer „Dorfrundfahrt“ und mehreren Sitzungen der örtlichen und  des überörtlichen Arbeitskreises fortgesetzt. Aktuell liegt der Entwurf des Berichtes zur Dorfentwicklung vor. Anträge können während der Förderphase jedes Jahr zum 15. September gestellt werden.
-
-
 
 ## Übersichtsplan der Dorfregion
 
