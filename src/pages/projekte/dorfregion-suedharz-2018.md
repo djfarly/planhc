@@ -7,7 +7,6 @@ description: >-
   beiden KommunenHerzberg am Harz und Bad Lauterberg im Harz.
 tags:
   - flavor
-  - tasting
 ---
 ![DRSÜH-Lage in Niedersachsenkarte](/img/drsuh-lage-in-niedersachsenkarte.jpg)
 
