@@ -9,7 +9,7 @@ tags:
   - flavor
   - tasting
 ---
-![DRSÜH-Lage in Niedersachsenkarte](/img/drsüh-lage-in-niedersachsenkarte.jpg)
+![DRSÜH-Lage in Niedersachsenkarte](/img/drsuh-lage-in-niedersachsenkarte.jpg)
 
 Sie umfasst die Ortsteile
 
