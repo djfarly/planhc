@@ -1,15 +1,17 @@
-import React from 'react'
-import Helmet from 'react-helmet'
+import React from 'react';
+import Helmet from 'react-helmet';
 
-import Navbar from '../components/Navbar'
-import './all.sass'
+import Navbar from '../components/Navbar';
+import Footer from '../components/Footer';
+import './all.sass';
 
 const TemplateWrapper = ({ children }) => (
-  <div>
-    <Helmet titleTemplate="%s — planHc · Büro für Stadtplanung" />
+  <>
+    <Helmet titleTemplate="planHc — %s — Büro für Stadtplanung" />
     <Navbar />
-    <div>{children}</div>
-  </div>
-)
+    {children}
+    <Footer />
+  </>
+);
 
-export default TemplateWrapper
+export default TemplateWrapper;
