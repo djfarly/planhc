@@ -10,11 +10,17 @@ const Navbar = () => (
         </Link>
       </div>
       <div className="navbar-start">
-        <Link className="navbar-item" to="/about">
-          About
+        <Link className="navbar-item" to="/leistungen">
+          Leistungen
         </Link>
-        <Link className="navbar-item" to="/products">
-          Products
+        <Link className="navbar-item" to="/projekte">
+          Projekte
+        </Link>
+        <Link className="navbar-item" to="/büro-kontakt">
+          Büro / Kontakt
+        </Link>
+        <Link className="navbar-item" to="/persönliches">
+          Persönliches
         </Link>
       </div>
     </div>
